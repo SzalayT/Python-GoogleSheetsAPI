@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "investment-portfolio-sheet",
+  "private_key_id": "39173536a6abab341f93548e928eb599b46737c8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2/xqlFsF+s/r+\nlD54hWBa3gzqARBhQgt+9R9DuqgOpsTevCssOIotv+0bsidgFjYRkzRhiEye5fjo\nplworlHxXv076F7AvNQRP7enYGnsdoGMN13WD8+SoOAwqI0yG0dljkCo2kVhhg+4\nrMOkJ1pbXakka1ETwyMy4nC/Jc9fkeatj9mkkkPYRHGEXlrgYhaeWaNWd0QvmKZd\nv0yQLsI3lTuH4LA0Hw8uRANncu5/SGHM7rl7Y01A8FCNhCGp1u398XbsqScBsx9c\nJE4k2O6TpBhugQ7t//aleOt/u026F5sFfSxncDybjBhfhg22zHZIGWpz5iagr07V\nTPi9VVqVAgMBAAECggEAHYatN6hjiYxEKfnk14DbsmWkC0inKi4kGTS3OfAeyBhn\n6PFO/PhVcTrHqOGWoVYMHMtV1wvNIxFDl1QqSAUSYyHataURTsNY6zyO5yJzDMx1\nLBjN2ulbqlKrQaace5Jzs2Lfs27eZXUiSb+UZILV/SpwTVhEcW4Zmo73NpxE6Kwl\ntvRJKbmerwxSB2d1iUyYgOrWqA5dZ8jlOri89z7NxPj158zUwKUrfd94JTREajvq\n5cFc45r4SCLL25C0HUTy/3w4ega2xyc0dKj/ODdbZL0Ggs2MOIXV570t9gKjYTBT\noYxCd4blzKxwF4XkBqFJPeOIiZJlDI9oqu49yquDqQKBgQDhdeTN2k0xldAkDN+g\nMQhTT6LArQoPrXhMV75kcppSgoA0J2l/Ig83+yiz46HEI6NvaGh/uYay2IcYAcO5\n/UJ7DydwdbZQKH1fhWCCXb6d4aPbGIouJV3bCLQsWB54GJ8vY8of/ZCOhV+W+L0r\n3wkmCKrxJnfRDl7hk4cFc08HHQKBgQDPyLiL1EYQ7hbZ4L9Kw1g+Eyf6vz0ytpHM\nWFqTOXT2nAmikTAkDWW3If3HwrQ50mpWgHrz1Y9N3C+sqMP3LAx7AiChaceo63PS\nD15OOhK0Y4boB+R9fFdD4KBd4BasOWGxHFGDWWJWlbSA3q2JPZykOJwd9/dVlz3r\nQSJGYRIv2QKBgBiSx/Bj1bwMzxXOzWThUz35VQzZD1qsFouDmL3L++P4U07b6NSx\neqUoW8RXkB8Xn02aPKGHMBY4IWlNb+7Kmr9c5HiOa+OKtjd+CwnKe+crW7eakhz7\nd6JS7YhTxmZikJ8SqkoYUfQmt0d2LvAkLBQYJ8GG5tJDVbYSZUoDyl5FAoGAbz1Y\nf5O/hyTQGwkVoGMAhQsgZj+n9dSELdBHfXZPRg+3oM715Pc/M1IBWcbFUgdyYqka\nKhx1QgvVgiw/7b4pWFmFOqU0/RxAv3720A6LIQP/n41KKFw/I9nIQTnNKZr20CkH\nArkByrUPE8cjRMw1Zj3gZrLwOWRlA+O1A9TINdECgYEAwjAJUfwySLhCLKd92EET\nLYPT+V7ecYrAqQC/MertmUIQ9AxtiLdxNuP3be7XLqZyeruX6SYhFHTE8mObvCQU\nuek2qj5vk3PWou1IPgGXMzLA/+hbSmXk2cl/2JjMPN7t0L2fGYphRqaEO4G2eQeB\nwj4ZG+QeA3+71tiPB/y05EA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheet01@investment-portfolio-sheet.iam.gserviceaccount.com",
+  "client_id": "108356475310166985131",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheet01%40investment-portfolio-sheet.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
