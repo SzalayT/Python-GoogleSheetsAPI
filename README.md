@@ -2,7 +2,7 @@
 Financial Data Visualization , Investment Portfolio Tracker
 
 This project is about to make an interactive google sheets where i can load financial data and my investment portfolio data and visualize it.
-
+This is the current state of the Google Sheet: https://docs.google.com/spreadsheets/d/1KCCA1KbXo38Av-ykWCWWE7SX8oST2ilE6HsmXZfG-Iw/edit?usp=sharing
 ## This is my roadmap / project plan
 
 Set Up Google Sheets API:
